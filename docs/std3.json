@@ -13,8 +13,6 @@
             "attribution": "日本シームレス地質図WMTS配信サービス",
             "tileSize": 256
           },
-
-
      "terrainSource": {
             "type": "raster-dem",
             "tiles": ["https://ubukawa.github.io/shikoku/shikoku-dem/{z}/{x}/{y}.png"],
@@ -37,7 +35,9 @@
   ,{
             "id": "gsj",
             "type": "raster",
-            "raster-opacity": 0.5,
+            "paint":{
+              "raster-opacity": 0.5,
+            },
             "source": "gsj"
           }
   ,{
