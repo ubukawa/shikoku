@@ -13,4 +13,10 @@ Please specify the attribution when you use the above tile:
 **RGB Elevation from ALOS World 3D - 30m (JAXA)**
 
 # map
-https://ubukawa.github.io/shikoku/map.html
+ALOS DEM with GSI Maps Vector  https://ubukawa.github.io/shikoku/map.html  
+ALOS DEM with GSI Maps raster tile https://ubukawa.github.io/shikoku/map-2.html  
+ALOS DEM with GSJ Geological Map and GSI Maps raster https://ubukawa.github.io/shikoku/map-3.html  
+
+# Map used
+GSI Maps (std):  https://maps.gsi.go.jp/development/ichiran.html#std
+GSJ Geological Maps:  https://gbank.gsj.jp/seamless/wmts/wmts.html  
