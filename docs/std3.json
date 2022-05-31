@@ -36,7 +36,7 @@
             "id": "gsj",
             "type": "raster",
             "paint":{
-              "raster-opacity": 0.5,
+              "raster-opacity": 0.5
             },
             "source": "gsj"
           }
