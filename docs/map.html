@@ -26,9 +26,11 @@ var map = new maplibregl.Map({
   hash: true, 
   style: 'https://ubukawa.github.io/shikoku/std.json', // style file path
   center: [134.233884, 34.033731], // center [lng, lat]
-  zoom: 5, // zoom level at loading
+  zoom: 8, // zoom level at loading
+  pitch: 52,
   maxZoom: 4, // min zoom
-  maxZoom: 17 // max zoom
+  maxZoom: 17, // max zoom
+  maxPitch: 85
 });
 
 
