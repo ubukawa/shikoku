@@ -17,5 +17,4 @@ ALOS DEM with GSI Maps Vector  https://ubukawa.github.io/shikoku/map.html
 ALOS DEM with GSJ Geological Map and GSI Maps vector https://ubukawa.github.io/shikoku/map-3.html  
 
 # Map used
-GSI Maps (std):  https://maps.gsi.go.jp/development/ichiran.html#std
 GSJ Geological Maps:  https://gbank.gsj.jp/seamless/wmts/wmts.html  
